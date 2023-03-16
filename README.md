@@ -14,3 +14,4 @@ This repository contains various UEFI firmwares extracted using https://github.c
 | Surface Duo          | Epsilon                  |
 | Microsoft Hololens 2 | Sydney                   |
 | Surface Duo 2        | Zeta                     |
+| QC 710 Box           | Rennell                  |
