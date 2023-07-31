@@ -16,3 +16,4 @@ This repository contains various UEFI firmwares extracted using https://github.c
 | Surface Duo 2        | Zeta                     |
 | QTI 7c CLS           | Rennell                  |
 | QTI 7c Gen3 CLS      | Kodiak                   |
+| QTI SDM845 WP        | Hoya                     |
