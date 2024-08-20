@@ -245,6 +245,7 @@ INF NetworkPkg/Mtftp6Dxe/Mtftp6Dxe.inf
 INF NetworkPkg/DnsDxe/DnsDxe.inf
 INF NetworkPkg/HttpDxe/HttpDxe.inf
 INF NetworkPkg/HttpUtilitiesDxe/HttpUtilitiesDxe.inf
+INF MsSurfaceCorePkg/MsUsbUndiConfigurationDxe/MsUsbUndiConfigurationDxe.inf
 INF NetworkPkg/TlsDxe/TlsDxe.inf
 INF Ms_Network/Ms_Network.inf
 INF MsSurfaceCorePkg/MsSSDEntryLoggerDxe/MsSSDEntryLoggerDxe.inf
