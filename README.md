@@ -11,7 +11,9 @@ This repository contains various UEFI firmwares extracted using https://github.c
 | Surface Pro X        | Cambria                  |
 | Surface Pro X Gen 2  | Carina                   |
 | Surface Pro X Wi-Fi  | Caspar                   |
+| Surface Pro 11       | Denali                   |
 | Surface Duo          | Epsilon                  |
+| Surface Laptop 7     | Romulus                  |
 | Microsoft Hololens 2 | Sydney                   |
 | Surface Duo 2        | Zeta                     |
 | QTI 7c CLS           | Rennell                  |
